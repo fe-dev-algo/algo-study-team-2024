@@ -1,8 +1,7 @@
 name: "[Feature] 새 알고리즘 문제 등록"
 description: 새 알고리즘 문제 풀이를 위한 Feature 이슈 템플릿입니다.
+labels: []
 title: "[Feature] 문제 사이트 | 알고리즘 주제와 내용"
-labels:
-  - feature
 body:
   - type: markdown
     attributes:
