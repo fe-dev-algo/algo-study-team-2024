@@ -1,8 +1,7 @@
 name: "[Refactor] 리팩토링"
 description: 새 알고리즘 문제 풀이를 위한 refactor 이슈 템플릿입니다.
+labels: []
 title: "[Refactor] 문제 사이트 | 알고리즘 주제 | 문제 번호 | 문제 이름과 내용"
-labels:
-  - refactor
 body:
   - type: markdown
     attributes:

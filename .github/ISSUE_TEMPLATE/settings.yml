@@ -1,8 +1,7 @@
 name: "[Settings] 설정 작업"
 description: 설정 작업 및 수정을 위한 이슈 템플릿입니다.
+labels: []
 title: "[Settings] 설정 작업 내용"
-labels:
-  - settings
 body:
   - type: markdown
     attributes:
