@@ -1,8 +1,7 @@
 name: "[Docs] 문서 작업"
 description: 문서 관련 작업 이슈 템플릿입니다.
+labels: []
 title: "[Docs] 문서 내용"
-labels:
-  - docs
 body:
   - type: markdown
     attributes:
